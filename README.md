@@ -7,7 +7,7 @@ This app utilizes machine learning to predict the risk of diabetes based on user
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://DIABETIES_PREDICTION-MACHINE_LEARNING.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://DIABETIES_PREDICTION.streamlit.app/)
 
 ## GitHub Codespaces
 
